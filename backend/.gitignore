@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# Build output
+/dist
+/build
+
+# Optional NPM cache directory
+.npm
+
+# IDE-specific files
+.vscode/
+.idea/
+.DS_Store
